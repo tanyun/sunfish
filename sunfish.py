@@ -1,10 +1,4 @@
-#!/usr/bin/env pypy
-# -*- coding: utf-8 -*-
 
-from __future__ import print_function
-import re, sys, time
-from itertools import count
-from collections import namedtuple
 
 ###############################################################################
 # Piece-Square tables. Tune these to change sunfish's behaviour
